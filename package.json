@@ -19,6 +19,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://swzoobi.github.io/react-tic-tac-toe/build",
   "browserslist": {
     "production": [
       ">0.2%",
